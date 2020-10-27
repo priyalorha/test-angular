@@ -1,0 +1,18 @@
+td 
+{
+    background: lightblue;
+    padding: 5px;
+
+}
+th
+{
+    background: green;
+    color:white;
+    padding:5 px;
+}
+
+body 
+{
+    font-family: blue;
+    padding: 5 px;
+}
